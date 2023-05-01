@@ -1,1 +1,2 @@
-print("Hello world!")
+"""Implementation."""
+print("Hello world!")  # noqa: T201

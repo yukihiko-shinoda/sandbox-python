@@ -1,2 +1,2 @@
 # sandbox-python
-Sndbox for Python.
+Sandbox for Python.
